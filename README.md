@@ -52,7 +52,7 @@
 
 ## 🖼 Screenshots
 
-> Add your screenshots in a /screenshots folder and reference them below:
+
 ---
 ## APP INFO:
 
