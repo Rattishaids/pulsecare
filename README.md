@@ -172,7 +172,7 @@ DOCTOR DASHBOARD
 
 ## 🤝 Made With
 
-Built with 💙 by *Revathi, **Rattishkumar, **Harini, **Abishek*  
+Built with 💙 by **Rattishkumar .
 If you like this project, star it ⭐ and share it!
 
 ---
