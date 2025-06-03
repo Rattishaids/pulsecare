@@ -172,11 +172,11 @@ DOCTOR DASHBOARD
 
 ## 🤝 Made With
 
-Built with 💙 by **Rattishkumar .
+Built with 💙 by **Rattishkumar**.
 If you like this project, star it ⭐ and share it!
 
 ---
 
 ## 📄 License
 
-Licensed under the [MIT License](LICENSE
+Licensed under the [MIT License]
